@@ -6,6 +6,8 @@
 // @match        *://*/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://github.com/fdghdfghdfghd/quiz-bank-helper/releases/latest/download/quiz-bank-helper.user.js
+// @downloadURL  https://github.com/fdghdfghdfghd/quiz-bank-helper/releases/latest/download/quiz-bank-helper.user.js
 // ==/UserScript==
 
 (function () {
